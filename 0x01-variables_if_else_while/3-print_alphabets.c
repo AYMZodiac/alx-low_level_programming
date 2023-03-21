@@ -8,7 +8,6 @@ int main(void)
 {
 	int n = 97;
 	int i = 65;
-	int k = 36;
 
 	while (n <= 122)
 	{
